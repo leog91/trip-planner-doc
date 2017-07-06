@@ -4,7 +4,7 @@ Trip Planner
 
 ![TripPlannericon](https://raw.githubusercontent.com/leog91/trip-planner-doc/master/icon/Backpack_icon-256.png)
 
-Aplicación para llevar el control de gastos en viajes y poder compartirlos.
+Aplicación para llevar el control de gastos en viajes.
 
 
 
@@ -27,7 +27,8 @@ ____
  - Transporte
  - Excursiones
 
-Posibilidad de definir n° de personas de grupo en un viaje y poder calcular gastos individuales.
+
+
 
  Convertir moneda en base al tipo cambiaro para una fecha determinada
 
@@ -39,7 +40,7 @@ Posibilidad de definir n° de personas de grupo en un viaje y poder calcular gas
 - Java/Spring
 -  MySQL
  - AngularJS
-
+- IONIC
 
 
 
@@ -50,3 +51,7 @@ Posibilidad de definir n° de personas de grupo en un viaje y poder calcular gas
 [Backend](https://github.com/leog91/trip-planner-backend)
 
 [Frontend](https://github.com/leog91/trip-planner-frontend)
+
+[IONIC](https://github.com/leog91/trip-planner-ionic)
+
+
